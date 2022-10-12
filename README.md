@@ -1,4 +1,6 @@
-# vue-animations
+# Vue-animations
+
+This is an educational project to train how the animations in Vue.js work.
 
 ## Project setup
 ```
@@ -14,6 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
